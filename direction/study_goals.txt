@@ -1,0 +1,11 @@
+History:
+	- begin with going over major world powers history in brief detail, with focus on major points during timeline.
+	- countries to cover: 
+		USA
+		France
+		Great Britain
+		Germany
+		Russia
+		China
+		Japan	
+

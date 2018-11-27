@@ -1,0 +1,13 @@
+
+
+
+27/ 11/ 18
+$$$ French history: finish off major timeline and start with studying FR a little bit
+$$$ Piano practise + the training module.
+* Medicine, review all and do more study.
+$$$ programming:
+	blackjack game
+	machine learning practise
+* get printer working
+* source the glucose measuring research articles
+	represent the data that they give with a dataframe structure in pandas python module and display this information with matplotlib. do basic analysis on it, like find mean, variance etc.
