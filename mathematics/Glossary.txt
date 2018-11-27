@@ -19,3 +19,12 @@ Creation-Date: 2018-11-18T00:12:06+11:00
 * Independent vs dependent variable
 	* in the function f(x), the dependent variable is f (depends on the value of x), whilst x is independent (in can take any value in the domain and specifies the range for the function in the process [the set of output values])
 	* often written is y=x^2, but since this is a function, should write instead y(x)=x^2, as the value of y depends of the input x. 
+* L-estimator
+	An estimator which is an L-statistic
+	
+	examples
+		mean
+		median 
+		mode
+		quartile, IQR
+
